@@ -1,0 +1,6 @@
+{
+  "name": "LifeTrack - Personal Productivity & Fitness Tracker",
+  "description": "A premium personal dashboard to track daily study schedules, tasks, gym workouts, volume, streaks, and productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
